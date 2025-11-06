@@ -7,10 +7,10 @@
 3. Распаковать папку `Zomboid` в папку `Документы` по пути .`.\\%user%\Zomboid` с заменой файлов (мой мод на некоторые переводы + настройки модов)
 4. Зайти в игру
 5. Зайди в меню модов
-6. Снизу слева активировать пресет `lxckxr's_modlist_x-x-x`
+6. Снизу слева активировать пресет `lxckxr's_modlist`
 7. Нажать "Принять"
 8. По желанию можно отключить любые из переводов (используются только моды от [Malevi4](https://steamcommunity.com/id/iMalevi4/myworkshopfiles/?appid=108600) + мой ручной перевод некоторых непереведенных модов)
-
+---
 # WARNING!!!
 - This modpack is for Project Zomboid Build 42.
 - Back up all your original files before installing, in case anything goes wrong.
@@ -20,6 +20,6 @@
 3. Extract the `Zomboid` folder into `..\\%user%\\Zomboid`, replacing files if prompted (contains my translations and mod settings).
 4. Launch the game.
 5. Go to the Mods menu.
-6. In the bottom-left corner, activate the preset `lxckxr's_modlist_x-x-x`.
+6. In the bottom-left corner, activate the preset `lxckxr's_modlist`.
 7. Click "Accept".
 8. Optionally, disable any translations (only mods from [Malevi4](https://steamcommunity.com/id/iMalevi4/myworkshopfiles/?appid=108600) are included, plus my manual translations for some untranslated mods).
