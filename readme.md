@@ -8,12 +8,12 @@
 ## Установка
 1. Подписаться на коллекцию модов (можно без замены) - [Ссылка](https://steamcommunity.com/sharedfiles/filedetails?id=3600957144)
 2. Скачать последний релиз данного репозитория
-3. Распаковать папку Zomboid по пути `C:\Users\%username%` с заменой файлов$^1$
-4. Распаковать папку ProjectZomboid по пути `C:\Program Files (x86)\Steam\steamapps\common` с заменой файлов$^1$
+3. Распаковать папку Zomboid по пути `C:\Users\%username%` с заменой файлов $^1$
+4. Распаковать папку ProjectZomboid по пути `C:\Program Files (x86)\Steam\steamapps\common` с заменой файлов $^1$
 5. Запустить игру
 6. Зайти в раздел модов
 7. Применить пресет `lxckxr's_modlist`
-8. Принять изменения$^2$
+8. Принять изменения $^2$
 
 $^1$ - Пути могут отличаться от ваших
 $^2$ - Порядок загрузки уже применен к пресету, а также, прописан в файле `sorting_rules.txt`
@@ -30,12 +30,12 @@ $^2$ - Порядок загрузки уже применен к пресету
 ## Installation
 1.  Subscribe to the mod collection (replacement is optional) - [Link](https://steamcommunity.com/sharedfiles/filedetails?id=3600957144)
 2.  Download the latest release of this repository
-3.  Unpack the `Zomboid` folder to the path `C:\Users\%username%` and replace the files $^1$
-4.  Unpack the `ProjectZomboid` folder to the path `C:\Program Files (x86)\Steam\steamapps\common` and replace the files$$^1$$
+3.  Unpack the `Zomboid` folder to the path `C:\Users\%username%` and replace the files  $^1$
+4.  Unpack the `ProjectZomboid` folder to the path `C:\Program Files (x86)\Steam\steamapps\common` and replace the files $^1$
 5.  Launch the game
 6.  Go to the Mods section
 7.  Apply the preset named `lxckxr's_modlist`
-8.  Accept the changes$^2$
+8.  Accept the changes $^2$
 
 $^1$ - The paths may differ from yours
 $^2$ - The load order is already applied to the preset and is also specified in the `sorting_rules.txt` file
