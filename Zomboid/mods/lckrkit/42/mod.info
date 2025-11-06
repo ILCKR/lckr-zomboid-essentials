@@ -3,9 +3,6 @@ id=lckrkit
 author=LCKR
 
 description=Перевод модов на русский язык<LINE>
-description=<LINE>
-description=Полный список переведенных модификаций в таблице (ссылка в описании мода в Steam)
 
 icon=icon.png
 poster=poster.png
-modversion=1.0

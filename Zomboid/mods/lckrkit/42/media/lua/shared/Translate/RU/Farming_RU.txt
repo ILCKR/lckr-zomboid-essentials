@@ -1,8 +1,0 @@
-Farming_RU = {
-			###		N&C's Narcotics
-	Farming_SourDiesel = "Шишка Sour Diesel",
-	Farming_NorthernLights = "Шишка Northern Lights",
-	Farming_AK = "Шишка AK-47",
-	Farming_Coca = "Растение коки",
-	Farming_Opium = "Растение опиума",
-}

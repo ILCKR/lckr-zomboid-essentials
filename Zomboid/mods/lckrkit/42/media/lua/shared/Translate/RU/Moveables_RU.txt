@@ -1,8 +1,0 @@
-Moveables_RU = {
-			###		[B42] Water Pipes (aka Plumbing)
-	Water_Pump = "Водяной насос",
-	Water_Pipe = "Водопроводная труба",
-	Water_Valve = "Водяной клапан",
-	Water_Flowmeter = "Расходомер воды",
-	Water_Sprinkler = "Разбрызгиватель воды",
-}
