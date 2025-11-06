@@ -10,8 +10,8 @@
 6. Снизу слева активировать пресет `lxckxr's_modlist`
 7. Нажать "Принять"
 8. По желанию можно отключить любые из переводов (используются только моды от [Malevi4](https://steamcommunity.com/id/iMalevi4/myworkshopfiles/?appid=108600) + мой ручной перевод некоторых непереведенных модов)
+Список моих переводов: https://docs.google.com/spreadsheets/d/1-z6LIQy_IVRJbvhECMMlfk-DhyFI5V-F607BVl_vvPk
 
-Список моих переводов: https://docs.google.com/spreadsheets/d/1-z6LIQy_IVRJbvhECMMlfk-DhyFI5V-F607BVl_vvPk/edit?usp=sharing
 ---
 # WARNING!!!
 - This modpack is for Project Zomboid Build 42.
