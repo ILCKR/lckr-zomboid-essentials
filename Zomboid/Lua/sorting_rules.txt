@@ -305,7 +305,6 @@ category=code
 [\CrashedCarsMod]
 category=code
 [\PillowsRandomScenarios]
-incompatibleMods=
 category=map
 [\DELRAN_CLICK_TO_WEAR]
 category=ui
@@ -513,3 +512,5 @@ category=tweaks
 [\DynamicLootAround]
 loadLast=category
 category=other
+[\SIMBAautoHIDEhud]
+category=ui
