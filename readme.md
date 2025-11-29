@@ -7,7 +7,7 @@
 
 ## Установка
 1. Подписаться на коллекцию модов (можно без замены) - [Ссылка](https://steamcommunity.com/sharedfiles/filedetails/?id=3614917252)
-2. Скачать последний релиз данного репозитория
+2. Скачать данный репозиторий
 3. Распаковать папку Zomboid по пути `C:\Users\%username%` с заменой файлов $^1$
 4. Распаковать папку ProjectZomboid по пути `C:\Program Files (x86)\Steam\steamapps\common` с заменой файлов $^1$
 5. Запустить игру
@@ -29,7 +29,7 @@ $^2$ - Порядок загрузки уже применен к пресету
 
 ## Installation
 1.  Subscribe to the mod collection (replacement is optional) - [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=3614917252)
-2.  Download the latest release of this repository
+2.  Download this repository
 3.  Unpack the `Zomboid` folder to the path `C:\Users\%username%` and replace the files  $^1$
 4.  Unpack the `ProjectZomboid` folder to the path `C:\Program Files (x86)\Steam\steamapps\common` and replace the files $^1$
 5.  Launch the game
